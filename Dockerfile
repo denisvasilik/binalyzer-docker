@@ -10,7 +10,7 @@ RUN pip3 install \
     binalyzer-data-provider==0.0.5a16 \
     binalyzer-template-provider==0.0.8a64 \
     binalyzer-cli==0.0.6a30 \
-    binalyzer-rest==0.0.2a9 \
+    binalyzer-rest==0.0.2a10 \
     binalyzer==0.0.10a136
 
 USER binalyzer
